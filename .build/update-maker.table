@@ -1,5 +1,6 @@
 {
-updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
-description="发布 v2.0，优化代码 + 兼容 VMessAEAD / VLESS  分享链接官方提案 XTLS/Xray-core#91";
-outputDir="/release/update/"
+updateUrl="https://raw.githubusercontent.com/cdnf/winXray/master/release/update_x86/";
+singleFile=0;
+description='升级 v3.6\r\n1. 修正Windows server 2012报错\r\n2. 增加多内核下载更新功能\r\n3. 增加ssr，NaiveProxy支持\r\n4. 增加系统快捷键支持\r\n5. 取消检查更新界面，同步上游其他代码优化\r\n';
+outputDir="/release/update_x86/"
 }
